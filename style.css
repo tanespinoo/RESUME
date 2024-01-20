@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    transition: background-color 0.5s;
+}
+
+#colorChangeButton {
+    padding: 10px;
+    margin: 50px 0;
+    cursor: pointer;
+}
+
+.color-combination-1 {
+    background-color: #3498db;
+    color: #e74c3c;
+}
+
+.color-combination-2 {
+    background-color: #e74c3c;
+    color: #3498db;
+}
+
+.color-combination-3 {
+    background-color: #5021D8;
+    color: #709AFC;
+}
